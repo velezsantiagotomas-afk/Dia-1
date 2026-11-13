@@ -15,6 +15,9 @@ Tengo un negocio de cámaras y redes llamado **NEXO Seguridad**.
    (podés mirar `registro.md` y la última carpeta de semana para saber qué vimos).
 6. Explicá todo **simple**, como para alguien que recién empieza.
 7. Al terminar cada día, **subí los cambios** al repositorio con un commit descriptivo.
+8. Usá los **mismos términos que el curso de Dalto**. Si un concepto no lo nombra Dalto,
+   explicalo con palabras simples sin meter la etiqueta técnica
+   (por ejemplo: no decir "fuertemente tipado", sino "Python no deja mezclar tipos distintos").
 
 ## Organización del repo
 
